@@ -10,7 +10,7 @@ Welcome to the Wordle Game repository! This simple word-guessing game is created
 
 ## Demo
 
-You can play the Wordle Game by visiting the [live demo](https://your-demo-link.com).
+You can play the Wordle Game by visiting the [live demo](https://sumeetbidhan.github.io/wordle/)
 
 ![Wordle Game Screenshot](./Wordle.png)
 
@@ -20,7 +20,7 @@ To play the Wordle Game locally, follow these steps:
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/wordle-game.git
+   git clone https://github.com/sumeetbidhan/wordle.git
    
 
 2. Open the `index.html` file in your preferred web browser.
